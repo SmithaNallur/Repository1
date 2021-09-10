@@ -1,0 +1,11 @@
+1.Create a new repository
+2.Create a local repository with the same name.
+3.Go to local repository right click --click Git Bash Here
+4.Git init
+5.git clone "take the code and paste here"
+6.Create anew text file and write the code
+7.go to git Bash here give Git add ---add the text file
+8.git gui give the stages
+9.git push origin will be added to the remote repository
+10 go to gitHub.com refresh
+all the things will be added
